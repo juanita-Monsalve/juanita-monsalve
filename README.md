@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 <center><tittle><font size=14><font face= brush Script Std> Trabajo:Eliminatorias Copa Mundial 2026</font></font></tittle></center>
 <body bgcolor=#EBEDEF>
-<head><font face= Freestyle Script Normal><font size=6> Juanita Monsalve Ortiz</font></font></head>
+<head><font face= Agate><font size=6> Juanita Monsalve Ortiz</font></font></head>
 <h1> Grado= 10°3 </h1>
 <center><img src="si.png" /></center>
 
